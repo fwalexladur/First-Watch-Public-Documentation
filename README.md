@@ -17,6 +17,7 @@ The documentation includes:
 ⚠️ Deployment guides, internal architecture, and engineering documentation
 are maintained in a **separate restricted repository**.
 
+
 # First Watch® Platform – Documentation Index
 
 Welcome to the public documentation for the First Watch® Platform.
