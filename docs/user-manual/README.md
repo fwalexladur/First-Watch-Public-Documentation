@@ -23,3 +23,6 @@ It covers:
 7. [Events and Alarms](section-7-events-and-alarms.md)
 8. [Administration and Settings](section-8-administration.md)
 9. [Operating Procedures](section-9-operating-procedures.md)
+
+
+<img width="1093" height="422" alt="image" src="https://github.com/user-attachments/assets/168e292a-e743-44d2-98ba-e45122c4171e" />
