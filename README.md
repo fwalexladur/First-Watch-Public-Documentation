@@ -26,7 +26,7 @@ Welcome to the public documentation for the First Watch® Platform.
 
 📘 **User Manual**  
 Operational guidance for daily users and administrators.  
-➡️ [Open User Manual](docs/user-manual/README.md)
+➡️ [Open User Manual](docs/user-manual/)
 
 
 🧠 **Technical Briefs**  
