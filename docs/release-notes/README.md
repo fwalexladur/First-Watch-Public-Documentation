@@ -1,4 +1,4 @@
-# Release Notes – Security Monitoring & Policy Baseline Update
+# Release Notes 4.3.6 – Security Monitoring & Policy Baseline Update
 
 **Status:** Internal / Customer Review  
 **Target Version:** 4.3.6  
